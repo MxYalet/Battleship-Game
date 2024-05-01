@@ -279,6 +279,7 @@ public abstract class Ship {
         }
     }
 
+
     /**
      * If a part of the ship occupies the given row and column, and the ship hasn’t been
      * sunk, this method marks that part of the ship as “hit” (in the hit array, index 0 indicates the
