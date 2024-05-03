@@ -173,6 +173,7 @@ public class Ocean {
         return shotsFired;
     }
 
+
     /**
      *
      * @return total # of hits as an int
